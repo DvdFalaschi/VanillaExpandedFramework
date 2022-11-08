@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Outposts.Settings.Title>Vanilla Expanded Framework -Postos avançados</Outposts.Settings.Title>
+    <Outposts.Settings.Multiplier.Production>Multiplicador de produção global: {0}</Outposts.Settings.Multiplier.Production>
+    <Outposts.Settings.Multiplier.Time>Multiplicador Global Time: {0}</Outposts.Settings.Multiplier.Time>
+	<Outposts.Settings.RaidDifficulty>Multiplicador de dificuldade de ataque global:{0}</Outposts.Settings.RaidDifficulty>
+	<Outposts.Settings.RaidFrequency>Faixa de frequência de ataque</Outposts.Settings.RaidFrequency>
+    <Outposts.Dialog.Create>Crio</Outposts.Dialog.Create>
+    <Outposts.Commands.Create.Label>Crie posto avançado</Outposts.Commands.Create.Label>
+    <Outposts.Commands.Create.Desc>Crie um novo posto avançado usando esta caravana</Outposts.Commands.Create.Desc>
+    <Outposts.Commands.TakeItems.Label>Pegue itens</Outposts.Commands.TakeItems.Label>
+    <Outposts.Commands.TakeItems.Desc>Pegue itens de {0} e adicione -os à caravana</Outposts.Commands.TakeItems.Desc>
+	<Outposts.Commands.GiveItems.Label>Dar itens</Outposts.Commands.GiveItems.Label>
+    <Outposts.Commands.GiveItems.Desc>Pegue itens de {0} e adicione -os ao posto avançado</Outposts.Commands.GiveItems.Desc>
+    <Outposts.Letters.Lost.Label>Posto avançado perdido</Outposts.Letters.Lost.Label>
+    <Outposts.Letters.Lost.Text>Lamentavelmente, devido à morte de todos os habitantes, o posto avançado de {0} foi perdido para nós.</Outposts.Letters.Lost.Text>
+    <Outposts.Letters.BattleWon.Label>A batalha avançada venceu</Outposts.Letters.BattleWon.Label>
+    <Outposts.Letters.BattleWon.Text>We have successfully won the battle for {0}.{1}</Outposts.Letters.BattleWon.Text>
+	<Outposts.Letters.BattleWon.Captured>Nós conseguimos capturar{0} no rescaldo</Outposts.Letters.BattleWon.Captured>
+	<Outposts.Letters.BattleWon.Rescued>Conseguimos recuperar {0}'scorpo</Outposts.Letters.BattleWon.Rescued>
+	<Outposts.Letters.BattleWon.Secured>We have secured: {0} valor de mercadorias e armas dos Raiders</Outposts.Letters.BattleWon.Secured>
+    <Outposts.Letters.Items.Label>Itens de {0}</Outposts.Letters.Items.Label>
+    <Outposts.Letters.Items.Text>Você recebeu os seguintes itens do posto avançado {0}:</Outposts.Letters.Items.Text>
+    <Outposts.Commands.AddPawn.Label>Adicione peão</Outposts.Commands.AddPawn.Label>
+    <Outposts.Commands.AddPawn.Desc>Transfira um peão desta caravana para o posto avançado</Outposts.Commands.AddPawn.Desc>
+	<Outposts.Commands.DeliveryColony.Label>Destino da entrega</Outposts.Commands.DeliveryColony.Label>
+    <Outposts.Commands.DeliveryColony.Desc>Selecione qual colônia receberá as mercadorias.Atualmente:{0}</Outposts.Commands.DeliveryColony.Desc>
+    <Outposts.Commands.Pack.Label>Pacote</Outposts.Commands.Pack.Label>
+    <Outposts.Commands.Pack.Desc>Comece a embalar este posto avançado de volta para uma caravana</Outposts.Commands.Pack.Desc>
+    <Outposts.Commands.StopPack.Label>Pare de embalar</Outposts.Commands.StopPack.Label>
+    <Outposts.Commands.StopPack.Desc>Cancelar empacotar este posto avançado em uma caravana</Outposts.Commands.StopPack.Desc>
+    <Outposts.Commands.Remove.Label>Remova o peão</Outposts.Commands.Remove.Label>
+    <Outposts.Commands.Remove.Desc>Remova um peão deste posto avançado para uma nova caravanan</Outposts.Commands.Remove.Desc>
+    <Outposts.Command.Remove.Only1>Não é possível remover peões: apenas 1 habitante.Se você quiser Remova este posto avançado, selecione "Pack".</Outposts.Command.Remove.Only1>
+    <Outposts.Contains>Contém {0} peões</Outposts.Contains>
+    <Outposts.Packing>Embalando em caravana.Feito em {0}</Outposts.Packing>
+    <Outposts.NotSkilledEnough>Os peões não são hábeis o suficiente, precisam de uma habilidade cumulativa {0} de pelo menos {1}</Outposts.NotSkilledEnough>
+    <Outposts.RestingAt>Descansando no posto avançado {0}</Outposts.RestingAt>
+    <Outposts.WillProduce.0>Produzirá alguns itens em {0}</Outposts.WillProduce.0>
+    <Outposts.WillProduce.1>Produzirá {0} {1} em {2}</Outposts.WillProduce.1>
+    <Outposts.WillProduce.2>Produzirá {0} {1} e {2} {3} em {4}</Outposts.WillProduce.2>
+    <Outposts.WillProduce.N>Produzirá o seguinte {0}:\n{1}</Outposts.WillProduce.N>
+    <Outposts.CannotBeMade>Não pode ser feito eun {0}</Outposts.CannotBeMade>
+    <Outposts.NotEnoughPawns>Peões insuficientes em caravana, precisam de pelo menos {0}</Outposts.NotEnoughPawns>
+    <Outposts.TotalSkill>Cumulativa {0} habilidade: {1}</Outposts.TotalSkill>
+    <Outposts.TooClose>Muito perto de assentamento ou outro posto avançado, deve ter pelo menos 1 ladrilho entre eles</Outposts.TooClose>
+    <Outposts.AddedFromTransportPods>Suas vagens de transporte chegaram. {0} foi adicionado a{1}.</Outposts.AddedFromTransportPods>
+    <Outposts.AddTo>Adicione ao posto avançado</Outposts.AddTo>
+    <Outposts.SendNonPawns>Confirmar itens de envio para o posto avançado?Eles serão perdidos permanentemente.</Outposts.SendNonPawns>
+    <Outposts.AlreadyPacking>Já embalar</Outposts.AlreadyPacking>
+    <Outposts.Settings.DeliveryMethod>Método de Entrega</Outposts.Settings.DeliveryMethod>
+    <Outposts.Settings.DeliveryMethod.Teleport>Itens de teletransporte para colônia</Outposts.Settings.DeliveryMethod.Teleport>
+    <Outposts.Settings.DeliveryMethod.PackAnimal>Enviar itens de transporte de animais para colônia</Outposts.Settings.DeliveryMethod.PackAnimal>
+    <Outposts.Settings.DeliveryMethod.Store>Armazenar itens no posto avançado</Outposts.Settings.DeliveryMethod.Store>
+    <Outposts.Settings.DeliveryMethod.ForcePods>Sempre envie pods de gotas</Outposts.Settings.DeliveryMethod.ForcePods>
+    <Outposts.Settings.DeliveryMethod.PackOrPods>PODS, se disponível, empacote o animal</Outposts.Settings.DeliveryMethod.PackOrPods>
+    <Outposts.Abandoned>Posto avançado abandonado</Outposts.Abandoned>
+    <Outposts.Abandoned.Desc>{0} foi abandonado por não ter ninguém dentro para executá -lo.Ele será rapidamente saqueado e assumido por natureza, sem deixar rasto que ele jamais esteve lá.</Outposts.Abandoned.Desc>
+    <Outposts.Take>Leva</Outposts.Take>
+	<Outposts.Give>Dar</Outposts.Give>
+    <Outposts.AllowedBiomes>Deve estar em um dos seguintes biomas:</Outposts.AllowedBiomes>
+    <Outposts.DisallowedBiomes>Não pode estar em nenhum dos seguintes biomas:</Outposts.DisallowedBiomes>
+    <Outposts.NumPawns>Deve ter pelo menos {0} peões dispostos a se juntar ao posto avançado</Outposts.NumPawns>
+    <Outposts.RequiredSkill>A habilidade cumulativa {0} deve ser pelo menos {1}</Outposts.RequiredSkill>
+    <Outposts.GrowingRequired>Deve ter capacidade de cultivar plantas</Outposts.GrowingRequired>
+    <Outposts.MustHaveInCaravan>Deve ter {0} em caravana</Outposts.MustHaveInCaravan>
+    <Outposts.NoValidPawns>Sem peões válidos para adicionar ao posto avançado</Outposts.NoValidPawns>
+    <Outposts.SkillChange>Devido a mudanças no nível de habilidade, {0} não pode mais produzir{1}</Outposts.SkillChange>
+    <Outposts.Setting.ProductionTime>Tempo de produção</Outposts.Setting.ProductionTime>
+    <Outposts.Setting.PackTime>Tempo de embalagem</Outposts.Setting.PackTime>
+    <Outposts.Setting.Range>Variar</Outposts.Setting.Range>
+    <Outposts.Setting.MinimumPawns>Peões mínimos para criar</Outposts.Setting.MinimumPawns>
+    <Outposts.Settings.Production>Multiplicador de produção</Outposts.Settings.Production>
+    <Outposts.Settings.DoRaids>Habilitar ataques à postos avançados?</Outposts.Settings.DoRaids>
+</LanguageData>

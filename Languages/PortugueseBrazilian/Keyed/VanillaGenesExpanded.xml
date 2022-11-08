@@ -1,0 +1,26 @@
+<? xml versão = "1.0" coding = "utf-8"?>
+<R Ranguagedata>
+
+
+
+<vge_statsreport_over40> Mais de 40ºC </vge_statsreport_over40>
+<VGE_STATSREPORT_BELOW0> Abaixo de 0ºc </vge_statsreport_below0>
+<VGE_STATSREPORT_ARMURD> blindado </vge_statsreport_armough>
+<VGE_STATSREPORT_NOSULLIGHT> sem luz solar </vge_statsreport_nosunlight>
+<vge_statsreport_water> na água </vge_statsreport_water>
+<VGE_STATSREPORT_NOTWATER> Em país seco </vge_statsreport_notwater>
+
+<VGE_EGGPRINTANCY> {0} Os ovos foram fertilizados!O processo de lama de ovo continuará até que um ovo fértil seja colocado.
+<vge_eggsprintcylabbab> {0} fertilizado!
+
+<VGE_EGGLAID> {0} colocou um ovo!Mantenha -o quente e protegido. </Vge_egglaid>
+<VGE_EGGLAIDLABEL> {0} colocou um ovo! </ vge_egglaidlabel>
+
+<vge_egghatched> {0} eclodiu de um ovo! </ vge_egghatched>
+<vge_egghatchedlabel> {0} Hatched! </ vge_egghatchedlabel>
+
+<vge_male_egg> pintado não deita ovos </ vge_male_egg>
+
+
+
+</ Linguagedata>

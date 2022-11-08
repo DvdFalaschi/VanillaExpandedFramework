@@ -1,0 +1,56 @@
+<? xml versão = "1.0" coding = "utf-8"?>
+<Ranguagedata>
+  <pipeSystem_consumgusion> {0} consumo </pipesystem_consumgust>
+  <PipeSystem_consumentExpling> A quantidade por dia de {0} Este edifício será extraído da grade {1}.
+
+  <pipesystem_idleconsumgusion> {0} consumo ocioso </pipesystem_idleconsumgust>
+  <pipeSystem_idleconsumentExpling> A quantidade de {0} Este edifício será extraído da grade {1} quando ocioso.
+
+  <PipeSystem_production> {0} Produção </pipeSystem_production>
+  <pipeSystem_productionExpling> A quantidade por dia de {0} Este edifício produzirá para a grade {1}.
+
+  <PipeSystem_DeConstructLabel> Desconstruir {0} Canos </PipeSystem_DeConstructLabel>
+  <PipeSystem_DeConstructdesc> desconstruir apenas os tubos parte da rede {0}.
+
+  )
+  <PipeSystem_resourceneeded> {0} necessária: </pipesystem_resourceneeded>
+
+  <pipesystem_resourceestored> {0} armazenado: </pipesystem_resourceestored>
+
+  <PipeSystem_NotConnected> não conectado a {}. </Pipesystem_notconnected>
+  <PipeSystem_excessstored> {0} excesso (armazenado) na rede: </pipesystem_excessstored>
+  <PipeSystem_Sored> {0} armazenado na rede: </pipesystem_stored>
+
+  <pipeSystem_valveclosed> Válvula fechada.
+  <pipeSystem_valveopened> Válvula aberta. </pipeSystem_valveopened>
+
+  <PipeSystem_AugmentStack> +1 </pipesystem_augmentstack>
+  <pipeSystem_augmentstackdesc> Aumentar o tamanho máximo da pilha de saída por 1. </Tubesystem_augmentstackdesc>
+  <PipeSystem_AugmentStackb> +10 </pipesystem_augmentstackb>
+  <PipeSystem_augmentStackDescb> Aumentar o tamanho máximo da pilha de saída por 10. </tubesystem_augmentstackdescb>
+
+  <PipeSystem_DecReasestack> -1 </pipesystem_decreasestack>
+  <PipeSystem_DecreasEstackdesc> Diminua o tamanho da pilha máxima da saída por 1.
+  <PipeSystem_DecReasEstackb> -10 </pipesystem_decreasestackb>
+  <pipesystem_decreasestackdescb> Diminua o tamanho da pilha máxima da saída por 10.
+
+  <PipeSystem_amountout> Vantagem máxima armazenada aqui: {0} </pipesystem_amountout>
+
+  <pipeSystem_processorbuffer> buffer: {0} </pipesystem_processorbuffer>
+  <PipeSystem_producing> Produzindo {0} {1}. Progresso do ciclo: {2}. </Pipesystem_producting>
+  <pipeSystem_produce> produzir {0} {1} de {2} {3}. </Pipesystem_produce>
+  <PipeSystem_ChooseResult> Escolha o resultado </pipeSystem_chooseresult>
+  <PipeSystem_chooseresultdesc> Escolha o resultado do processador. </pipesystem_chooseresultdesc>
+
+  <PipeSystem_transferContent> Transferir conteúdo de armazenamento </pipesystem_transfercontent>
+  <PipeSystem_transferContentDesc> Transferir conteúdo de armazenamento para outros armazenamentos disponíveis. </pipesystem_transfercontentdesc>
+  <PipeSystem_MarkedToTransferContent> Transferindo conteúdo para outros armazenamentos disponíveis ... </pipesystem_markedtotransfercontent>
+
+  <PipeSystem_NothingTorefill> Ninguém para reabastecer {0} </PipeSystem_nothingTorefill>
+  <PipeSystem_allowManualRefill> Permitir reabastecimento manual </pipeSystem_allowManualRefill>
+  <PipeSystem_allowManualRefilldesc> Permita que os peões reabasteçam diretamente o armazenamento </pipesystem_allowManualRefilldesc>
+
+  <PipeSystem_Cantextract> Não é possível extrair: os tanques estão cheios </pipeSystem_cantextract>
+  <PipeSystem_CantPlacehere> {0} só pode ser colocado no depósito {1}. Use o scanner de penetração no solo para encontrar os depósitos. </pipesystem_cantplacehere>
+  <pipesystem_resourceleft> quantidade deixada no depósito: {0}. </Pipesystem_resourceleft>
+</Linguagedata>

@@ -1,0 +1,29 @@
+<? xml versão = "1.0" coding = "utf-8"?>
+<Ranguagedata>
+    <sef.hire> contrate {0} </sef.hire>
+    <sef.hiredesc> contrate alguns {0} para ajudar a colônia, por exemplo com defesa. </sef.hiredesc>
+    <Vef.availablesilver> Disponível prata: {0} </vef.availablesilver>
+    <Vef.value> valor </vef.value>
+    <sef.choosenumberofunits> Quantas dessas unidades você quer ter?
+    <sef.breakdown> Breakdown </vef.breakdown>
+    <Vef.Dayamount> quantidade de dias </vef.dayamount>
+    <Vef.Cost> Custo para contratar </vef.cost>
+    <sef.riskmult> Multiplicador de risco </vef.riskmult>
+    <sef.totalprice> Preço total </vef.totalprice>
+    <Vef.hiringdesc> Você pode contratar {0} por qualquer período de tempo. Você só pode ter um contrato ativo por vez e não pode misturar e combinar as facções das quais contratar.
+Se contratado {0} morrer de plantão, você incorrerá em um aumento adicional de 5% no preço do contrato por pirata morto em todos os contratos futuros por um ano inteiro.
+    <sef.longterm> Os contratos de longo prazo são significativamente mais caros </vef.longterm>
+    <Vef.ContractInfo> Veja o contrato com {0} </vef.contractinfo>
+    <Vef.PawnSlist> Contrato: </sef.pawnslist>
+    <sef.conttracttitle> Contrato com {0} </vef.contracttitle>
+    <Vef.Spent> Silver gasto: </sef.spent>
+    <sef.timeleft> tempo restante: </sef.timeleft>
+    <sef.cancelcontract> Cancelar contrato </vef.cancelcontract>
+    <sef.norefund> Cancelar seu contrato não reembolsará a prata que você gastou nele. </Vef.norefund>
+<Vef.Customize> personalize {0} </sef.customize>
+<Vef.CustomizationTitle> {0} personalização </vef.customizationtitle>
+<Vef.Name> Nome </vef.name>
+<Vef.Cancel> Cancelar </vef.cancel>
+<Vef.availableContrates> Contratos disponíveis: {0} </vef.availableContrates>
+
+</Linguagedata>
