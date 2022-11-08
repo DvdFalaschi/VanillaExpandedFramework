@@ -1,0 +1,7 @@
+<? xml versão = "1.0" coding = "utf-8"?>
+<Ranguagedata>
+    <Lebloading.Unload> Descarregado {Gear_labelshort} </coloading.unload>
+    <Reloading.noammo> Sem munição </reloading.noammo>
+    <Lebloading.ammo> Munição: {0} / {1} </coading.ammo>
+    <Reloading.reload> Reload {Gear} com {ammo_label} </coloading.reload>
+</Linguagedata>

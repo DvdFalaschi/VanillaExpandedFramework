@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <VFEMechForceRecharge>Recarra de força</VFEMechForceRecharge>
+  <VFEMechForceRechargeDesc>Encomende a máquina associada a retornar a esta plataforma para carregar, independentemente do nível atual da bateria.</VFEMechForceRechargeDesc>
+  <VFEMechAttachTurret>Anexe a torre</VFEMechAttachTurret>
+  <VFEMechAttachTurretDesc>Construa uma torre no topo desta plataforma móvel.Isso exigirá que um colonista entregue recursos iguais ao custo de construção normal da torre.</VFEMechAttachTurretDesc>
+  <VFEMechMachineDied>Máquina destruída</VFEMechMachineDied>
+  <VFEMechMachineDiedDesc>Uma de suas máquinas foi destruída!Você pode desmontar seus restos mortais em uma mesa de usinagem.Para construir uma substituição, um de seus colonos precisará entregar as seguintes peças à sua plataforma:\n\n{0}</VFEMechMachineDiedDesc>
+  <VFEMechNoResources>Não há recursos suficientes</VFEMechNoResources>
+  <VFEMechNoTurret>Sem torre móvel ativo</VFEMechNoTurret>
+  <VFEMechReconstruct>Precisava reconstruir a máquina:</VFEMechReconstruct>
+  <VFEMechTurretResources>Necessário para construir a torre:</VFEMechTurretResources>
+  <VFEMechLowerRange>Reduzir o alcance</VFEMechLowerRange>
+  <VFEMechLowerRangeDesc>Reduza o número de ladrilhos que esta máquina viajará.</VFEMechLowerRangeDesc>
+  <VFEMechRaiseRange>Aumentar a faixa</VFEMechRaiseRange>
+  <VFEMechRaiseRangeDesc>Aumente o número de ladrilhos que esta máquina viajará.</VFEMechRaiseRangeDesc>
+  <VFEMechStopMachine>Stop Machine</VFEMechStopMachine>
+  <VFEMechStopMachineDesc>Pare o progresso desta máquina e force -o a retornar à base.</VFEMechStopMachineDesc>
+  <VFEMechStartMachine>Máquina de partida</VFEMechStartMachine>
+  <VFEMechStartMachineDesc>Inicie esta máquina.</VFEMechStartMachineDesc>
+  <VFEMechMachineHitObstacle>A Machine encontrou um obstáculo!</VFEMechMachineHitObstacle>
+  <VFEMechSetArea>Área definida</VFEMechSetArea>
+  <VFEMechSetAreaDesc>Defina a área permitida para todas as máquinas associadas dessa plataforma.</VFEMechSetAreaDesc>
+  <VFEMRideableMachineTip>Este dróide é pilotável.As pessoas em uma caravana montarão os animais/dróides mais rápidos, melhorando a velocidade da caravana como um todo.</VFEMRideableMachineTip>
+	<VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef} ficou sem poder e foi deixado para trás.</VFEM.CaravanMachineRanOutPower>
+  <VFEM.DroneGainsName>O nome do drone é agora {0}.</VFEM.DroneGainsName>
+</LanguageData>

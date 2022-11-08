@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Shield -->
+	<VanillaFactionsExpanded.EquipShield>Equipar {0} como escudo</VanillaFactionsExpanded.EquipShield>
+	<VanillaFactionsExpanded.EquipWarningShieldUnusable>(inutilizável com {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+	<VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} será inutilizável)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+
+	<VanillaFactionsExpanded.Protects>Protege</VanillaFactionsExpanded.Protects>
+	<VanillaFactionsExpanded.Protects_Desc>Que partes do corpo o escudo protege.</VanillaFactionsExpanded.Protects_Desc>
+
+	<!-- Scenario parts -->
+	<VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>Modificadores de relação de facção</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+	<VanillaFactionsExpanded.NumberRange>{0} para {1}</VanillaFactionsExpanded.NumberRange>
+	<VanillaFactionsExpanded.AllFactions>Todas as facções</VanillaFactionsExpanded.AllFactions>
+	<VanillaFactionsExpanded.AllFactionsIncludingHidden>Todas as facções, incluindo ocultas</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+	<VanillaFactionsExpanded.AlwaysHostile>Sempre hostil</VanillaFactionsExpanded.AlwaysHostile>
+	<VanillaFactionsExpanded.AffectHiddenFactions>Afetar ocultos</VanillaFactionsExpanded.AffectHiddenFactions>
+	<VanillaFactionsExpanded.StartingGoodwill>Iniciando</VanillaFactionsExpanded.StartingGoodwill>
+	<VanillaFactionsExpanded.NaturalGoodwill>Natural</VanillaFactionsExpanded.NaturalGoodwill>
+
+	<!-- Stat Draw Entries -->
+	<VanillaFactionsExpanded.UsableWithShield>Utilizável com escudos</VanillaFactionsExpanded.UsableWithShield>
+	<VanillaFactionsExpanded.UsableWithShield_Desc>Se essa arma pode ou não ser usada se o personagem também tiver um escudo equipado.</VanillaFactionsExpanded.UsableWithShield_Desc>
+
+	<!-- New Faction Spawning -->
+	<VanillaFactionsExpanded.FactionTitle>New faction: {FactionName}</VanillaFactionsExpanded.FactionTitle>
+	<VanillaFactionsExpanded.ModInfo>This faction is added by {ModName} E atualmente não está presente em seu jogo.</VanillaFactionsExpanded.ModInfo>
+	<VanillaFactionsExpanded.AnUnknownMod>um mod desconhecido</VanillaFactionsExpanded.AnUnknownMod>
+	<VanillaFactionsExpanded.HiddenFactionInfo>Esta é uma facção oculta e não aparecerá na sua lista de facções.</VanillaFactionsExpanded.HiddenFactionInfo>
+	<VanillaFactionsExpanded.RequiredFactionInfo>É marcado conforme exigido por {ModName}.</VanillaFactionsExpanded.RequiredFactionInfo>
+	<VanillaFactionsExpanded.NonSpawningFactionInfo>TSua facção é marcada como não-divulgadora e você provavelmente deve ignorá-la.</VanillaFactionsExpanded.NonSpawningFactionInfo>
+	<VanillaFactionsExpanded.FactionSelectOption>Selecione como proceder:</VanillaFactionsExpanded.FactionSelectOption>
+	<VanillaFactionsExpanded.FactionButtonAdd>Adicione a facção</VanillaFactionsExpanded.FactionButtonAdd>
+	<VanillaFactionsExpanded.FactionButtonAddFull>Adicione a facção com assentamentos</VanillaFactionsExpanded.FactionButtonAddFull>
+	<VanillaFactionsExpanded.FactionButtonSkip>Fazer nada</VanillaFactionsExpanded.FactionButtonSkip>
+	<VanillaFactionsExpanded.FactionButtonIgnore>Não peça esta facção novamente</VanillaFactionsExpanded.FactionButtonIgnore>
+	<VanillaFactionsExpanded.FactionMessageFailed>Falha ao adicionar a facção.</VanillaFactionsExpanded.FactionMessageFailed>
+	<VanillaFactionsExpanded.FactionMessageFailedFull>Falhou em criar uma facção com assentamentos.</VanillaFactionsExpanded.FactionMessageFailedFull>
+	<VanillaFactionsExpanded.FactionMessageSuccessFull>Adicionada {FactionName} com {Amount} settlements.</VanillaFactionsExpanded.FactionMessageSuccessFull>
+	<VanillaFactionsExpanded.FactionMessageSuccess>Adicionada {FactionName}.</VanillaFactionsExpanded.FactionMessageSuccess>
+
+	<VanillaFactionsExpanded.FactionSettlementsToSpawn>Assentamentos a serem gerados (recomendados são{0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+	<VanillaFactionsExpanded.FactionMinDistance>A distância mínima das bases de jogadores (recomendada são{0}): {1}</VanillaFactionsExpanded.FactionMinDistance>
+	<VanillaFactionsExpanded.FactionButtonSpawn>spawn</VanillaFactionsExpanded.FactionButtonSpawn>
+	<VanillaFactionsExpanded.FactionButtonCancel>Cancelar</VanillaFactionsExpanded.FactionButtonCancel>
+
+	<VSE.Reinforcements>Reforços</VSE.Reinforcements>
+	<VSE.ReinforcementsDesc>Seeing that your forces suffered losses, {FACTION_name} decidiu reforçar sua força de invasão</VSE.ReinforcementsDesc>
+	<VSE.CostGoodwill>custo: {0} boa vontade</VSE.CostGoodwill>
+
+	<VWEL_ToggleHotshotLabel>Aquecimento da arma</VWEL_ToggleHotshotLabel>
+	<VWEL_ToggleHotshotDesc>Os tiros dispararam ao aquecer ainda aquecendo a arma, permitindo maior velocidade de disparo.O superaquecimento pode levar à detonação.</VWEL_ToggleHotshotDesc>
+
+	<VFE_DeepDrillNo>Broca profunda não pode ser usada com {0}.</VFE_DeepDrillNo>
+</LanguageData>

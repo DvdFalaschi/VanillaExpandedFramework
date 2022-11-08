@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<VFEA.AbilityDisableReasonCooldown>{0} está em recarga para {1}</VFEA.AbilityDisableReasonCooldown>
+	<VFEA.AbilityDisableReasonGeneral>{0} não atende aos requisitos</VFEA.AbilityDisableReasonGeneral>
+
+	<VFEA.AbilityStatsPower>Poder</VFEA.AbilityStatsPower>
+	<VFEA.AbilityStatsDuration>Duração</VFEA.AbilityStatsDuration>
+	
+	<VFEA.TargetMustBeHostile>O alvo deve ser hostil</VFEA.TargetMustBeHostile>
+
+	<VFEA.MinRadius>Raio mínimo</VFEA.MinRadius>
+
+	<VFEA.RClickToAuto>Clique com o botão direito do mouse para ativar a autocasting.</VFEA.RClickToAuto>
+	<VFEA.RClickToNoAuto>Clique com o botão direito do mouse para desativar a autocasting.</VFEA.RClickToNoAuto>
+</LanguageData>

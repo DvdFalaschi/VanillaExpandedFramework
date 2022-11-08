@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Generic -->
+	
+	<IP_InsertFirstItemDesc>Inserir</IP_InsertFirstItemDesc>
+	<IP_InsertSecondItemDesc>Inserir</IP_InsertSecondItemDesc>
+	<IP_InsertThirdItemDesc>Inserir</IP_InsertThirdItemDesc>
+	<IP_InsertFourthItemDesc>Inserir</IP_InsertFourthItemDesc>
+	<IP_InsertVariable>Inserir {0}</IP_InsertVariable>
+	<IP_Output>Resultado {0}</IP_Output>
+	<IP_OutputVariable>Resultado {0} a partir de {1}</IP_OutputVariable>
+	<IP_OutputDesc>O processador será lançado {0}.Precisa ser alimentado {1}</IP_OutputDesc>
+	<IP_InsertVariableSecond>Inserir {0} no 2º slot</IP_InsertVariableSecond>
+	<IP_InsertVariableThird>Inserir {0} no 3º slot</IP_InsertVariableThird>
+	<IP_CantFindThing>Nenhum itens desse tipo ({0}) encontrado neste mapa</IP_CantFindThing>
+	<IP_BringIngredients>Traga ingredientes</IP_BringIngredients>
+	<IP_BringIngredientsDesc>Traga ingredientes para iniciar o processo</IP_BringIngredientsDesc>
+	<IP_CancelIngredients>Cancelar trazendo ingredientes</IP_CancelIngredients>
+	<IP_CancelIngredientsDesc>Cancelar trazendo ingredientes para este edifício</IP_CancelIngredientsDesc>	
+	<IP_NoIngredientFound>Nenhum ingrediente encontrado no mapa</IP_NoIngredientFound>
+	<IP_ChooseIngredient>Escolha ingrediente</IP_ChooseIngredient>
+	<IP_ChooseOutput>Escolha Saída</IP_ChooseOutput>
+	<IP_ChooseIngredientSecond>Escolha o segundo ingrediente</IP_ChooseIngredientSecond>
+	<IP_ChooseIngredientThird>Escolha o terceiro ingrediente</IP_ChooseIngredientThird>
+	<IP_ChooseIngredientFourth>Escolha o quarto ingrediente</IP_ChooseIngredientFourth>
+	<IP_IngredientImproperlyDefined>Um dos ingredientes foi definido indevidamente para trabalhar com o processador de itens, entre em contato com o autor do mod</IP_IngredientImproperlyDefined>
+	<IP_NoPowerDestroysWarning>{0} precisa ser abastecido para começar a trabalhar</IP_NoPowerDestroysWarning>
+	<IP_NoFuelDestroysWarning>{0} precisa ser abastecido para começar a trabalhar</IP_NoFuelDestroysWarning>
+	<IP_LightDestroysWarning>{0} precisa ter um nível de luz adequado para começar a trabalhar</IP_LightDestroysWarning>
+	<IP_RainDestroysWarning>{0} precisa não estar chovendo para começar a trabalhar</IP_RainDestroysWarning>
+	<IP_TemperatureDestroysWarning>{0} precisa ter uma temperatura adequada ({1} - {2}) para começar a trabalhar</IP_TemperatureDestroysWarning>
+	<IP_NoPowerDestroysInitialWarning>O resultado é estragado devido a uma falha de energia no processador de itens</IP_NoPowerDestroysInitialWarning>
+	<IP_NoPowerDestroysMessage>O resultado estragou -se devido a uma falha de energia no processador de itens</IP_NoPowerDestroysMessage>
+	<IP_GenericProductFinished>Um produto terminou o processamento e está aguardando a coleta</IP_GenericProductFinished>
+	<IP_IsEmpty>{0} está vazio</IP_IsEmpty>
+	<IP_FilledWith>{0} está preenchido com {1}</IP_FilledWith>
+	<IP_FilledWithSecond>{0} O 2º slot é preenchido com {1}</IP_FilledWithSecond>
+	<IP_FilledWithThird>{0} O 3º slot é preenchido com {1}</IP_FilledWithThird>
+	<IP_FilledWithFourth>{0} O 4º slot é preenchido com {1}</IP_FilledWithFourth>
+	<IP_IngredientPercentage>(preenchido em {0} de {1})</IP_IngredientPercentage>
+	<IP_ProcessorWorking>{0} está funcionando:</IP_ProcessorWorking>
+	<IP_ProcessorPaused>{0} está parado:</IP_ProcessorPaused>
+	<IP_ProcessingInProgress>{0} está processando {1}.{2} estará pronto com {3} qualidade em {4}</IP_ProcessingInProgress>
+	<IP_ProcessingInProgressNoQuality>{0} está processando {1}.{2} estará pronto em {3}</IP_ProcessingInProgressNoQuality>
+	<IP_RemoveProduct>Remova {0} ({1})</IP_RemoveProduct>
+	<IP_RemoveProductDesc>Remova {0} do {1}.O produto estará pronto no nível atual de qualidade ({2})</IP_RemoveProductDesc>
+	<IP_ResetSemiautomatic>Receitas de redefinição</IP_ResetSemiautomatic>
+	<IP_ResetSemiautomaticDesc>Isso redefinirá o edifício após o término do produto atual, para que um novo ingrediente de entrada possa ser escolhido</IP_ResetSemiautomaticDesc>
+	<IP_NoCombination>Nenhuma combinação encontrada para esses ingredientes</IP_NoCombination>
+	<IP_SetAutoQuality>Defina a qualidade da extração do produto.Quando o produto atingir essa qualidade, um colono o recupera automaticamente e o transporta para um estoque, se disponível.Se não estiver definido, os produtos serão extraídos manualmente ou com qualidade lendária.</IP_SetAutoQuality>
+	<IP_ChooseQualityAuto>Escolha a qualidade automática</IP_ChooseQualityAuto>
+	<IP_QualityAutoIs>Qualidade automática: {0}</IP_QualityAutoIs>
+	<IP_QualityAutoNot>Desative a qualidade automática</IP_QualityAutoNot>
+	<IP_QualityAutoEstablished>Qualidade automática, o produto será extraído no nível de qualidade: {0}</IP_QualityAutoEstablished>
+	<IP_ToggleAuto>Ingrediente automático adquirindo</IP_ToggleAuto>
+	<IP_ToggleAutoDesc>Se definido como ativo, este edifício pegará automaticamente os ingredientes de tremonhas adjacentes e começará automaticamente a funcionar novamente assim que o produto for removido.Caso contrário, os colonos transportarão os ingredientes para o edifício, e ele precisará ser ativado manualmente uma vez recarregado</IP_ToggleAutoDesc>
+	<IP_ResetFullAuto>Máquina de redefinição</IP_ResetFullAuto>
+	<IP_ResetFullAutoDesc>Redefine totalmente a máquina e faz com que ela pare.Aviso, ele destruirá o processo e os itens de entrada</IP_ResetFullAutoDesc>
+	<IP_ProductWaiting>Esperando a coleta</IP_ProductWaiting>
+	<IP_OutsideLightRange>O processo nesta máquina está sendo interrompido devido a um nível de luz inadequado e será estragado em breve</IP_OutsideLightRange>
+	<IP_SpoiledDueToLight>O produto nesta máquina estragou -se devido a um nível inadequado de luz</IP_SpoiledDueToLight>
+	<IP_ItRains>O processo nesta máquina está sendo interrompido devido ao mau tempo e será estragado em breve</IP_ItRains>
+	<IP_SpoiledDueToRain>O produto nesta máquina estragou -se devido ao mau tempo</IP_SpoiledDueToRain>
+	<IP_WrongTemp>O processo nesta máquina está sendo interrompido devido a uma temperatura inadequado e será estragado em breve</IP_WrongTemp>
+	<IP_SpoiledDueToWrongTemp>O produto nesta máquina estragou devido a uma temperatura inadequada</IP_SpoiledDueToWrongTemp>
+	<IP_TempRangeInThisMachine>.Este fermentador precisa de uma temperatura entre {0} e {1} ºc</IP_TempRangeInThisMachine>
+	<IP_TogglePause>Pausar / reiniciar</IP_TogglePause>
+	<IP_TogglePauseDesc>Pausar / reiniciar o processamento desta máquina</IP_TogglePauseDesc>
+	<IP_OverThreshold>Esperando a saída para limpar.O limite de saída é {0}</IP_OverThreshold>
+	<IP_NoRecipesHere>Nenhuma receita modificada encontrada para esta fábrica</IP_NoRecipesHere>
+
+</LanguageData>

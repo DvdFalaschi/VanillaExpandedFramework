@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <MVCF.Toggle>Alternar {0}</MVCF.Toggle>
+    <MVCF.ToggleUsing>Alternar usando {0} automaticamente</MVCF.ToggleUsing>
+    <MVCF.ToggleAuto>Alternar o uso automático</MVCF.ToggleAuto>
+    <MVCF.Cooldown>Ainda em recarga. {0} faltando.</MVCF.Cooldown>
+    <MVCF.Setting>Estrutura de combate com várias ações</MVCF.Setting>
+    <MVCF.Settings.Debug>Modo de desenvolvedor</MVCF.Settings.Debug>
+    <MVCF.Settings.LogLevel>Nível de log:</MVCF.Settings.LogLevel>
+    <MVCF.Settings.LogLevel.None>Nenhum</MVCF.Settings.LogLevel.None>
+    <MVCF.Settings.LogLevel.Important>Importante</MVCF.Settings.LogLevel.Important>
+    <MVCF.Settings.LogLevel.Verbose>Detalhada</MVCF.Settings.LogLevel.Verbose>
+    <MVCF.Settings.LogLevel.Silly>Boba</MVCF.Settings.LogLevel.Silly>
+    <MVCF.Settings.LogLevel.Tick>Carraça</MVCF.Settings.LogLevel.Tick>
+</LanguageData>

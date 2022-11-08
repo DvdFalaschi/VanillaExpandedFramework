@@ -1,0 +1,29 @@
+<? xml versão = "1.0" coding = "utf-8"?>
+<Ranguagedata>
+
+<!-broca automática->
+
+<Vfe_chunktomine> broca para {0} </vfe_chunktomine>
+<Vfe_chunkrandommine> broca para pedaços aleatórios </ vfe_chunkrandommine>
+<Vfe_Choosemine> Escolha o tipo de chunk para perfurar </ vfe_choosemine>
+<VFE_CHOOSEMINEDESC> Escolha o tipo de chunk para perfurar. Você pode escolher qualquer um dos tipos de rock do mapa, ou aleatório </ vfe_chooseminedesc>
+<Vfe_randomrock> Chunk aleatório </ vfe_randomrock>
+<VFE_PLEASECELECTUTPUT> Selecione Saída da máquina </vfe_pleaselectoutput>
+<Vfe_needswater> Este edifício deve ser colocado em água </ vfe_needswater>
+
+<!-Graphics de construção aleatória->
+
+<VFE_CHANGEGRAPHIC> Alterar gráfico </ vfe_changegraphic>
+<VFE_CHANGEGRAPHDESC> Altere o gráfico deste edifício aleatoriamente entre os disponíveis </ vfe_changegraphicdesc>
+
+<!-Random Building Graphics, Options->
+
+<VFE_RANDOMORSEQUENTALY> "Alterar o botão gráfico" muda o gráfico aleatoriamente (desmarque para sequencialmente) </ vfe_randomorsequently>
+<Vfe_hiderandomizebutton> Ocultar o botão "Alterar gráfico" </ vfe_hiderandomizebutton>
+
+<Vfe.switchlightcolor> Switch Light Color </vfe.switchlightcolor>
+<Vfe.switchlightcolordesc> Altere a cor da luz atual. </ vfe.switchlightcolordesc>
+<Vfe.ChangeColorto> Altere a cor para {0} </vfe.changeColorto>
+<Vfe.colorswitchpoweroff> O poder está desligado. Impossível de trocar de cor. </ vfe.colorswitchpoweroff>
+
+</Linguagedata>

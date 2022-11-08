@@ -1,0 +1,30 @@
+<? xml versão = "1.0" coding = "utf-8"?>
+<Ranguagedata>
+    <GeralTitle> General </neraltitle>
+    <!-csg->
+    <csgtitle> Geração de estrutura personalizada: </csgtitle>
+    <csglog> Habilitar log de depuração de geração de estrutura: </csglog>
+
+    <!-patches TOGGABLE->
+    <Tptitle> patches toggable </tptitle>
+    <ChotSestart> Todas as configurações precisam de uma reinicialização para serem aplicadas </chitrestart>
+    <Xpatchfound> {0} patches encontrados </xpatchfound>
+
+<!-danos climáticos->
+<sef.weatherdamages> Danos climáticos </vef.weatherdamages>
+<Vef.enableweatherdamage> {0} </vef.enableweatherdamage>
+    <!-Descoberta de facção->
+    <fdtitle> Facção descoberta </fdtitle>
+    <NeedtoBeingame> você primeiro precisa carregar um salvar </senToBeingame>
+    <OJOKFORPOPUP> Adicione facções (s)
+    <AskForpOpPuPexLained> Clique neste
+    <CanadDxfaction> {0} facções (s) pode ser adicionado ao seu salvar atual </rudanDxfaction>
+
+<Vef.disablemodsourcereport> Desative os relatórios de origem mod </vef.disablemodsourcereport>
+
+<Vef.shields.search> Pesquisa: </vef.shields.search>
+<Vef.shields.resetmodsettingstodefault> Redefinir configurações de mod para default </vef.shields.resetmodsettingstodefault>
+<Vef.shields.explanationtitle> Defina armas como utilizáveis ​​ou não com escudos. </Vef.shields.explanationTitle>
+<Vef.shields.showmeleeweapons> mostre armas corpo a corpo </vef.shields.showmeleeweapons>
+<Vef.shields.showrangeweapons> show armas armas </vef.shields.showrangeweapons>
+</Linguagedata>
